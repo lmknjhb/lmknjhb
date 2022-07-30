@@ -1,4 +1,4 @@
-## Hi there 👋, meet Amos
+## Hi there 👋, meet Xavier
 I am a Javascript developer who is really passionate of its technologies
 
 Skills: REACT / JS / HTML / CSS
